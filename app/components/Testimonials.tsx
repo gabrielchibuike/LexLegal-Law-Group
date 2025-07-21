@@ -404,10 +404,13 @@ const Testimonials = () => {
       <div className="max-w-7xl w-full bg-white/10 backdrop-blur-lg rounded-2xl sm:rounded-3xl p-4 sm:p-6 lg:p-10 shadow-2xl border border-white/20">
         {/* Header */}
         <div className="text-center mb-6 sm:mb-8">
+          <h3 className="text-sm text-center text-primary font-medium uppercase">
+            Testimonial
+          </h3>
           <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold  mb-2 sm:mb-4">
             What Our Clients Say
           </h2>
-          <p className=" text-lg text-center">
+          <p className=" text-lg text-center text-muted-foreground">
             Hear from those who experienced excellence
           </p>
         </div>

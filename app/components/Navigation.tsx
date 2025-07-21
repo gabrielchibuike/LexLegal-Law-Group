@@ -47,7 +47,7 @@ export const Navigation = () => {
 
   return (
     <>
-      <nav className="w-full flex justify-between py-3 px-5 max-lg:px-4 items-center border border-b-accent sticky top-0 bg-white z-100">
+      <nav className="w-full flex justify-between font-semibold py-3 px-5 max-lg:px-4 items-center border border-b-accent sticky top-0 bg-white z-100">
         <div className="bg-white p-3 rounded-full  ">
           <div className="flex flex-col items-center text-center">
             <Scale className="w-5 h-5 text-primary" />

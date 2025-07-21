@@ -6,13 +6,13 @@ function OurTeam() {
     <>
       <div className="min-h-screen flex flex-col justify-center px-10 my-30 ">
         <div className="space-y-3">
-          <h3 className="text-lg text-center text-primary font-medium ">
+          <h3 className="text-sm text-center text-primary font-medium ">
             OUR TEAM
           </h3>
           <h3 className="text-4xl text-center font-semibold max-lg:text-2xl ">
             MEET OUR ATTORNEYS
           </h3>
-          <h3 className="text-lg text-center ">
+          <h3 className=" text-lg text-center text-muted-foreground ">
             Our team consists of 15+ highly skilled attorneys
           </h3>
         </div>

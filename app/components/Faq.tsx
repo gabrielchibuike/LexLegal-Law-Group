@@ -12,7 +12,7 @@ export default function FaqSection() {
     <div className="flex flex-col md:flex-row gap-10 px-6 py-16 max-w-7xl mx-auto bg-gray-300/10">
       {/* Left Section */}
       <div className="md:w-1/2 space-y-4">
-        <p className="uppercase text-sm text-primary font-semibold tracking-wide">
+        <p className="uppercase text-sm text-primary font-medium tracking-wide">
           FAQ
         </p>
         <h2 className="text-4xl font-semibold">Still Have Any Questions?</h2>

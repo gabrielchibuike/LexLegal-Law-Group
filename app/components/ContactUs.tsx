@@ -213,7 +213,7 @@ const ContactUs = () => {
                 <h1 className="text-3xl lg:text-4xl font-bold text-gray-800 mb-4 leading-tight">
                   Need Professional Legal Advice?
                 </h1>
-                <p className="text-gray-600">
+                <p className=" text-lg text-center text-muted-foreground">
                   Fill in the form, describe your legal issue, and we will get
                   in touch with you soon.
                 </p>

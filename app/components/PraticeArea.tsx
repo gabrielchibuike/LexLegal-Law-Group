@@ -254,13 +254,13 @@ const CasesWeWorkWith = () => {
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <div className="text-center mb-12">
-          <p className="text-amber-600 text-sm font-semibold tracking-wide uppercase mb-2">
+          <p className="text-amber-600 text-sm font-medium tracking-wide uppercase mb-2">
             HOW CAN WE HELP YOU
           </p>
           <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4 max-lg:text-2xl">
             Cases We Work With.
           </h1>
-          <p className="text-gray-600 text-lg max-w-2xl mx-auto">
+          <p className=" text-lg text-center text-muted-foreground max-w-2xl mx-auto">
             Whatever your issue is, we can help you with it.
           </p>
         </div>

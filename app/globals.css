@@ -112,6 +112,28 @@
   --sidebar-ring: oklch(0.556 0 0);
 }
 
+@font-face {
+  font-family: "adode-clean";
+  src: url("./fonts/AdobeCleanExtraBold.otf") format("truetype");
+  font-weight: 950;
+  font-style: bold;
+}
+@font-face {
+  font-family: "adode-clean";
+  src: url("./fonts/AdobeCleanBlack.otf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "adode-clean";
+  src: url("./fonts/AdobeCleanUXRegular.otf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+.myfont {
+  font-family: "adode-clean";
+}
+
 @layer base {
   * {
     @apply border-border outline-ring/50;

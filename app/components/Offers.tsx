@@ -11,13 +11,13 @@ function Offers() {
     <>
       <div className="min-h-[500px]  flex flex-col justify-center px-10 max-lg:px-4 ">
         <div className="space-y-3">
-          <h3 className="text-lg text-center text-primary font-medium ">
+          <h3 className=" text-center text-primary text-sm font-medium ">
             WHY CHOOSE US
           </h3>
           <h3 className="text-4xl text-center font-semibold max-lg:text-2xl">
             TOP FEATURES
           </h3>
-          <h3 className="text-lg text-center font- ">
+          <h3 className=" text-lg text-center text-muted-foreground ">
             Here are just the few reasons to work with Us.
           </h3>
         </div>

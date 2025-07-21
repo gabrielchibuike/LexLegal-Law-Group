@@ -14,8 +14,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body className={`font-[poppins] `}>
+    <html lang="en" className="myfont">
+      <body className={`myfont `}>
         {children}
         <Toaster />
       </body>
